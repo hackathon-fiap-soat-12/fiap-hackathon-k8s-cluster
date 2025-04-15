@@ -31,7 +31,7 @@ Este repositório é responsável criar o Cluster da aplicação.
 
 ## 🚀 Execução
 
-### Subindo a Cluster
+### Subindo o Cluster
 
   Caso deseje subir o Cluster, basta seguir os seguintes passos:
   
